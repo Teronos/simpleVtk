@@ -1,4 +1,4 @@
-В файле src/simpleVtkExamplePrc.cpp взятый с сайта https://examples.vtk.org/site/Cxx/
+В файле __src/simpleVtkExamplePrc.cpp__ код с сайта https://examples.vtk.org/site/Cxx/
 для успешнной сборки и запуска достаточно выполнить следующие шаги(речь идет только про Debug сборку):
 
 * Указать в свойствах проекта _Linker >> Additional Library Directories_ путь до расположения статических библиотек, на моем компьютере это __Q:\ExternalTools\VTK\9.0\lib_static\vc142\x64\Debug__ 
